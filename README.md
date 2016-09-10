@@ -2,7 +2,7 @@
 
 ## Summary
 
-This container based on ubuntu 16.04 and includes following component.
+This container based on centos6 and includes following component.
 
 * rails 4.2.7
 * ruby 2.3.1
